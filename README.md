@@ -1,4 +1,4 @@
-﻿Answers to example question in [answers.txt](https://github.com/debaditya473/rag-qna/blob/main/answers.txt)
+﻿Answers to example questions in [answers.txt](https://github.com/debaditya473/rag-qna/blob/main/answers.txt)
 
 The approach has been explained in this document: [Approach and Experiments](https://docs.google.com/document/d/1oHqxCV9dCWkMQ5rzzivAMfQhqCMNYAc4qMVp4h881jI/edit)
 The notebook [approach.ipynb](https://github.com/debaditya473/rag-qna/blob/main/approach.ipynb) also has the approach displayed through code
