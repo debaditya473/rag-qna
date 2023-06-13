@@ -36,7 +36,7 @@ The text-to-text generation model I have used in our final model is a fine-tuned
 The notebook used to fine-tune the model has also been provided in this submission. The notebook is named ‘finetuning.ipynb‘.
 
 
-To run it, first go to the link: ‘https://drive.google.com/drive/u/2/folders/1wwM0iLutsjpnY3djCqx9NV5xv-HY2np_‘, and download the three dataset files ‘finetuning_train.txt’, ‘finetuning_val.txt’ and ‘finetuning_test.txt’.
+To run it, first go to the link: [Finetuning Data](https://drive.google.com/drive/u/2/folders/1wwM0iLutsjpnY3djCqx9NV5xv-HY2np_), and download the three dataset files ‘finetuning_train.txt’, ‘finetuning_val.txt’ and ‘finetuning_test.txt’.
 
 
 Now, in cell number 4 of the notebook, replace the data_files “train”, “val” and “test” paths with the paths to the above three downloaded files.
