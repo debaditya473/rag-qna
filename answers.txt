@@ -1,0 +1,11 @@
+When did the GARDASIL 9 recommendations change?
+[{'generated_text': 'February 2015'}]
+
+What were the past 3 recommendation changes for GARDASIL 9?
+[{'generated_text': 'the recommendation was designated as a Category A recommendation (recommendation for all persons in an age- or risk-factor–based group) (6). Antibody titers were higher after the third dose than after the first dose. The main analyses were restricted to participants who received all 3 doses, had no evidence of current or past infection'}]
+
+Is GARDASIL 9 recommended for Adults?
+[{'generated_text': 'yes'}]
+
+Does the ACIP recommend one dose GARDASIL 9?
+[{'generated_text': 'no'}]

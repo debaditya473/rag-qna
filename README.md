@@ -1,7 +1,7 @@
 ﻿## How to run the code:
 
 
-The final pipeline used to generate the published results has been written and executed in the notebook ‘ ‘.
+The final pipeline used to generate the published results has been written and executed in the notebook ‘qna_pipeline.ipynb‘.
 
 To run this notebook, first go to this link: https://drive.google.com/drive/folders/1TXtjcWZmw-3LNGSBjJxBYp59VTC1-DLm?usp=sharing,
 and download the text-to-text generation model that I fine-tuned on our dataset for 10 epochs using Causal Language Modeling. 
