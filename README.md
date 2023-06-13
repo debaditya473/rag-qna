@@ -1,12 +1,12 @@
 ﻿Answers to example question in [answers.txt](https://github.com/debaditya473/rag-qna/blob/main/answers.txt)
 
 The approach has been explained in this document: [Approach and Experiments](https://docs.google.com/document/d/1oHqxCV9dCWkMQ5rzzivAMfQhqCMNYAc4qMVp4h881jI/edit)
-The notebook approach.ipynb also has the approach displayed through code
+The notebook [approach.ipynb](https://github.com/debaditya473/rag-qna/blob/main/approach.ipynb) also has the approach displayed through code
 
 ## How to run the code:
 
 
-The final pipeline used to generate the published results has been written and executed in the notebook ‘qna_pipeline.ipynb‘.
+The final pipeline used to generate the published results has been written and executed in the notebook [qna_pipeline.ipynb](https://github.com/debaditya473/rag-qna/blob/main/qna_pipeline.ipynb).
 
 To run this notebook, first go to this link: https://drive.google.com/drive/folders/1TXtjcWZmw-3LNGSBjJxBYp59VTC1-DLm?usp=sharing,
 and download the text-to-text generation model that I fine-tuned on our dataset for 10 epochs using Causal Language Modeling. 
@@ -38,7 +38,7 @@ Next, run all cells of the notebook in sequential order, and the answers to the 
 The text-to-text generation model I have used in our final model is a fine-tuned version of the ‘google/flan-t5-large’ model. It has been fine-tuned on our dataset consisting of the PDFs from https://www.cdc.gov/vaccines/hcp/acip-recs/vacc-specific/hpv.html .
 
 
-The notebook used to fine-tune the model has also been provided in this submission. The notebook is named ‘finetuning.ipynb‘.
+The notebook used to fine-tune the model has also been provided in this submission. The notebook is named [finetuning.ipynb](https://github.com/debaditya473/rag-qna/blob/main/finetuning.ipynb).
 
 
 To run it, first go to the link: [Finetuning Data](https://drive.google.com/drive/u/2/folders/1wwM0iLutsjpnY3djCqx9NV5xv-HY2np_), and download the three dataset files ‘finetuning_train.txt’, ‘finetuning_val.txt’ and ‘finetuning_test.txt’.
