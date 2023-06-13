@@ -1,4 +1,6 @@
-﻿## How to run the code:
+﻿Answers to example question in [answers.txt](https://github.com/debaditya473/rag-qna/blob/main/answers.txt)
+
+## How to run the code:
 
 
 The final pipeline used to generate the published results has been written and executed in the notebook ‘qna_pipeline.ipynb‘.
