@@ -26,7 +26,7 @@ Now, in the 16th line of cell number 5, replace the string in
 gen_model = pickle.load(open(' ', 'rb'))
 ```
 
-with the path to the downloaded fine-tuned text generation model ‘flan-t5-large-finetuned-finetuning_final_data-10_epochs.h5 ‘.
+with the path to the downloaded fine-tuned text generation model ‘flan-t5-large-10_epochs.h5‘.
 
 
 Next, run all cells of the notebook in sequential order, and the answers to the four questions will get printed as output of the last cell.
